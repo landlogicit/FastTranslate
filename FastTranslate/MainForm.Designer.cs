@@ -182,7 +182,7 @@
             // 
             this.openReferenceFileToolStripMenuItem.Name = "openReferenceFileToolStripMenuItem";
             this.openReferenceFileToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.R)));
-            this.openReferenceFileToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.openReferenceFileToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.openReferenceFileToolStripMenuItem.Text = "Open reference file...";
             this.openReferenceFileToolStripMenuItem.Click += new System.EventHandler(this.openReferenceFileToolStripMenuItem_Click);
             // 
@@ -190,7 +190,7 @@
             // 
             this.openFileToTranslateToolStripMenuItem.Name = "openFileToTranslateToolStripMenuItem";
             this.openFileToTranslateToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.O)));
-            this.openFileToTranslateToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.openFileToTranslateToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.openFileToTranslateToolStripMenuItem.Text = "Open file to translate...";
             this.openFileToTranslateToolStripMenuItem.Click += new System.EventHandler(this.openFileToTranslateToolStripMenuItem_Click);
             // 
@@ -198,7 +198,7 @@
             // 
             this.saveTranslationToolStripMenuItem.Name = "saveTranslationToolStripMenuItem";
             this.saveTranslationToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
-            this.saveTranslationToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.saveTranslationToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.saveTranslationToolStripMenuItem.Text = "Save translation";
             this.saveTranslationToolStripMenuItem.Click += new System.EventHandler(this.saveTranslationToolStripMenuItem_Click);
             // 
@@ -207,20 +207,20 @@
             this.saveTranslationAsToolStripMenuItem.Name = "saveTranslationAsToolStripMenuItem";
             this.saveTranslationAsToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.S)));
-            this.saveTranslationAsToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.saveTranslationAsToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.saveTranslationAsToolStripMenuItem.Text = "Save translation as...";
             this.saveTranslationAsToolStripMenuItem.Click += new System.EventHandler(this.saveTranslationAsToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(316, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(345, 6);
             // 
             // openFile3ToolStripMenuItem
             // 
             this.openFile3ToolStripMenuItem.Name = "openFile3ToolStripMenuItem";
             this.openFile3ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D3)));
-            this.openFile3ToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.openFile3ToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.openFile3ToolStripMenuItem.Text = "Open file 3";
             this.openFile3ToolStripMenuItem.Click += new System.EventHandler(this.openFile3ToolStripMenuItem_Click);
             // 
@@ -228,20 +228,20 @@
             // 
             this.openFile4ToolStripMenuItem.Name = "openFile4ToolStripMenuItem";
             this.openFile4ToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D4)));
-            this.openFile4ToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.openFile4ToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.openFile4ToolStripMenuItem.Text = "Open file 4";
             this.openFile4ToolStripMenuItem.Click += new System.EventHandler(this.openFile4ToolStripMenuItem_Click);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(316, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(345, 6);
             // 
             // loadSuggestionReferenceFileToolStripMenuItem
             // 
             this.loadSuggestionReferenceFileToolStripMenuItem.Name = "loadSuggestionReferenceFileToolStripMenuItem";
             this.loadSuggestionReferenceFileToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.F12)));
-            this.loadSuggestionReferenceFileToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.loadSuggestionReferenceFileToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.loadSuggestionReferenceFileToolStripMenuItem.Text = "Load suggestion reference file pair...";
             this.loadSuggestionReferenceFileToolStripMenuItem.ToolTipText = resources.GetString("loadSuggestionReferenceFileToolStripMenuItem.ToolTipText");
             this.loadSuggestionReferenceFileToolStripMenuItem.Click += new System.EventHandler(this.loadSuggestionReferenceFileToolStripMenuItem_Click);
@@ -251,7 +251,7 @@
             this.addCurrentTextsToSuggestionToolStripMenuItem.Name = "addCurrentTextsToSuggestionToolStripMenuItem";
             this.addCurrentTextsToSuggestionToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
             | System.Windows.Forms.Keys.F12)));
-            this.addCurrentTextsToSuggestionToolStripMenuItem.Size = new System.Drawing.Size(319, 22);
+            this.addCurrentTextsToSuggestionToolStripMenuItem.Size = new System.Drawing.Size(348, 22);
             this.addCurrentTextsToSuggestionToolStripMenuItem.Text = "Add translation to suggestions";
             this.addCurrentTextsToSuggestionToolStripMenuItem.ToolTipText = "Adds all the texts that have been translated so far to the suggestion dictionary." +
     " Useful if a text is recurring but not yet in the dictionary.";
@@ -373,7 +373,7 @@
             this.KeyPreview = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
-            this.Text = "FastTranslate by Markus Kvist for nopCommerce 2.30 to 3.60+";
+            this.Text = "FastTranslate by Markus Kvist for nopCommerce 2.30 to 3.90+";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainForm_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();

@@ -1,0 +1,10 @@
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\bin\Debug\FastTranslate.exe.config
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\bin\Debug\FastTranslate.exe
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\bin\Debug\FastTranslate.pdb
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\obj\Debug\FastTranslate.csprojResolveAssemblyReference.cache
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\obj\Debug\FastTranslate.FindDialog.resources
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\obj\Debug\FastTranslate.MainForm.resources
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\obj\Debug\FastTranslate.Properties.Resources.resources
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\obj\Debug\FastTranslate.csproj.GenerateResource.Cache
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\obj\Debug\FastTranslate.exe
+C:\Users\Lorenzo\Documents\GitHub\FastTranslate\FastTranslate\obj\Debug\FastTranslate.pdb
